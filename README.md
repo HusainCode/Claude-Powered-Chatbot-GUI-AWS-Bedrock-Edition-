@@ -11,6 +11,6 @@ A lightweight Python GUI chatbot that connects to **Anthropic Claude 3** using *
 ## ⚙️ Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/HusainCode/Claude-Powered-Chatbot-GUI-AWS-Bedrock-Edition-.git
 cd Claude-Powered-Chatbot-GUI-AWS-Bedrock-Edition
 pip install -r requirements.txt
